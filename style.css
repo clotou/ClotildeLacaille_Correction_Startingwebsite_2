@@ -1040,3 +1040,21 @@ h4 {
         text-align: center;
     }
 }
+
+.text-ajout {
+font-size: 23px;
+color: #333333;
+margin: 25px 0px;
+max-width: 635px;
+}
+
+.text-ajout-2{
+  font-size: 20px;
+  color: #333333;
+  margin: 0px 25px;
+  max-width: 580px;
+}
+.citation{
+  font-size: 20px;
+  opacity: 0.7;
+}
